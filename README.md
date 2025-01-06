@@ -1,2 +1,2 @@
-# Spring-Boot-CRUD-Oparations
-spring boot simple crud oparation.
+# Spring-Boot-CRUD-Operations
+spring boot simple crud operation.
